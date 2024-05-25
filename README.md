@@ -9,7 +9,7 @@ Things i have learned so far
 - git add .
 - git fetch
 - git commit -m "<commit message\>"
-- git branch <new branch name>
+- git branch <new branch name\>
 - git branch
 - git checkout <branch || commit id\>
 - git merge <branch to merge into the current branch\>
