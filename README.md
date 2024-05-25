@@ -13,5 +13,6 @@ Things i have learned so far
 - git branch
 - git checkout <branch || commit id\>
 - git merge <branch to merge into the current branch\>
+- reset --hard <commit id\>
 
 # Feel free to let me know if you can help me in this project
