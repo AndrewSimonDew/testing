@@ -4,7 +4,7 @@ Hello everyone, in this repository i am learning how to use git with github
 Things i have learned so far
 
 - Deploy keys
-- git pull origin <branch>
+- git pull origin <branch\>
 - git push origin <branch>
 - git add .
 - git fetch
